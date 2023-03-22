@@ -15,6 +15,7 @@ unzip main.zip
 
 cd linux-site-dio-main
 
+#Criar diretorio para salvar site
 mkdir /var/www/html/linux-site-dio-main
 
 cp -R * /var/www/html/linux-site-dio-main
